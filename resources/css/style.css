@@ -1,0 +1,48 @@
+
+
+body {
+    font-family: Helvetica;
+    font-size: 22px;
+
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+/* Header */
+
+header {
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+    height: 64px;
+    background-color:rgb(146, 168, 233);
+    border-bottom: 5px solid gray;
+    align-items: center;
+}
+
+.header--img {
+    height: 50px;
+    padding-left: 24px;
+}
+
+.colmar {
+    font-weight: bold;
+}
+
+.header--nav {
+    padding-right: 24px;
+}
+
+nav span { 
+    display: inline-block;
+    font-style: italic;
+    padding: 20px 16px;
+}
+
+a {
+ text-decoration: none;
+}
