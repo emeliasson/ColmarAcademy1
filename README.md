@@ -1,1 +1,1 @@
-# ColmarAcademy1; A Codecademyproject
+# ColmarAcademy1; A Codecademy-project
